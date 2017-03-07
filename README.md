@@ -1,3 +1,7 @@
+
 ### Meteor play repo
-what the name says, move along.
+
+Contains some very simple Meteor app for learning purposes.
+
+More info in the app folder.
 
